@@ -1,0 +1,28 @@
+img {
+    width : 100%;
+  }
+.app {
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+.app a {
+    text-decoration: none;
+}
+  #left {
+    width : 200px;
+    height : 200px;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  #thumbnail {
+    display : flex;
+    flex-direction: row;
+  }
+  #right {
+    margin-left: 20px;
+  }
